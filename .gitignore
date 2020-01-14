@@ -1,0 +1,12 @@
+*.dll
+*.pdb
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.csproj.CopyComplete
+*.csprojAssemblyReference.cache
+.vscode/ipch
+*-Debug.json
+sqlite3
+bin/
+Debug/
+obj/
